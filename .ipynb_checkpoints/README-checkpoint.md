@@ -58,4 +58,4 @@ Predictions are returned as JSON therfore, have to parsed.
 
 Lastly predictions are shown as index therfore, have to be mapped to appropriate class.
 
-![endpoint](screenshots/endpoint.jpg)
+![endpoint](screenshots/endpoint.JPG)
